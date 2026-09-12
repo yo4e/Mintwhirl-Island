@@ -37,4 +37,4 @@ The game UI and code deliberately retain **Pocket Storm** as a temporary in-game
 
 ## License
 
-This repository is provided under the MIT license as declared in `package.json`. Verify third-party asset and distribution rights before commercial release.
+This repository is provided under the [MIT License](LICENSE), consistent with `package.json`. Third-party libraries or materials remain subject to their own terms; verify third-party asset and distribution rights before commercial release.
